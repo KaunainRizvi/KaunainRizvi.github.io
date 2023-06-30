@@ -1,2 +1,2 @@
-# Aniket7896.github.io
+# KaunainRizvi.github.io
 This is my Portfolio
