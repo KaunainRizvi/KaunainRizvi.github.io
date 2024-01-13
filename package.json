@@ -1,5 +1,5 @@
 {
-  "homepage": "https://surajkm24.github.io",
+  "homepage": "https://KaunainRizvi.github.io",
   "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -13,7 +13,6 @@
   },
   "dependencies": {
     "aos": "^2.3.4",
-    "gh-pages": "^4.0.0",
     "github-calendar": "^2.3.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -25,6 +24,7 @@
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
     "@vitejs/plugin-react": "^2.1.0",
+    "gh-pages": "^6.1.1",
     "vite": "^3.1.0"
   }
 }
