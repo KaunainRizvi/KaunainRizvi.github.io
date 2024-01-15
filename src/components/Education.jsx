@@ -35,7 +35,7 @@ export const Education = () => {
                     <p>Master's of Computer Application (M.C.A)</p>
                     <p>G.H Raisoni University, Amravati, Maharashtra</p>
                     <p>Software Engineering</p>
-                    <p>Present - 2024</p>
+                    <p>Present - 2024 Final Year</p>
                 </div>
                 <div className='date d2'></div>
             </div>
