@@ -63,7 +63,7 @@ export const Navbar = () => {
         <div>
             <svg viewBox="0 0 100 120" style={{ height: "55px", width: "62px" }} >
                 <polygon fill={light ? "#edf2f8" : '#0a192f'} className="Shape" stroke={light ? "#dc143c" : "#64ffda"} stroke-width="5" stroke-linecap="round" stroke-linejoin="round" points="39 2 0 22 0 67 39 90 78 68 78 23"></polygon>
-                <text x='40' y='60' text-anchor="middle" fill={light ? "#dc143c" : "#64ffda"} fontSize="50px" fontWeight="640" >S</text>
+                <text x='40' y='60' text-anchor="middle" fill={light ? "#dc143c" : "#64ffda"} fontSize="50px" fontWeight="640" >K</text>
             </svg>
         </div>
         <div className='navButtons' style={light ? { '--navText': "black", '--navTextHover': "#edf2f8",'--hover':"#dc143c" } : { '--navText': "rgba(255,255,255,0.9)", '--navTextHover': "#4a5d80dd",'--hover':"#64ffda"  }}>
