@@ -17,18 +17,19 @@ export const About = () => {
                         <p>Hello! I'm <span>Kaunain Rizvi</span> from <span>Nagpur, Maharashtra, India</span>. <br /> At 23, I'm passionate about creating innovative and interactive web applications 🚀.</p>
                     </div>
                     <div id='mysitem'>
-    <div><GoTriangleRight style={{ color: light ? "#dc143c" : "#64ffda", fontSize: "20px" }} /></div>
-    <p>Between 2018 and 2022, I delved into freelancing, offering services in video editing, graphic design, and developing WordPress websites and landing pages.</p>
-</div>
-
+                        <div><GoTriangleRight style={{ color: light ? "#dc143c" : "#64ffda", fontSize: "20px" }} /></div>
+                        <p>Between 2018 and 2022, I delved into freelancing, offering services in video editing, graphic design, and developing WordPress websites and landing pages.</p>
+                    </div>
                     <div id='mysitem'>
                         <div><GoTriangleRight style={{ color: light ? "#dc143c" : "#64ffda", fontSize: "20px" }} /></div>
                         <p>In 2022, I graduated with a Bachelor's degree in Computer Applications. Currently, I'm in the final year of my Master's in Computer Applications (MCA), set to complete in 2024.</p>
                     </div>
+                    
                     <div id='mysitem'>
                         <div><GoTriangleRight style={{ color: light ? "#dc143c" : "#64ffda", fontSize: "20px" }} /></div>
-                        <p>As a student at <span>Masai School</span>, I am mastering Data Structures, Algorithms, and Full Stack Web Development.</p>
+                        <p>As a student , I am mastering Data Structures, Algorithms, and Full Stack Web Development.</p>
                     </div>
+                    
                     <div id='mysitem'>
                         <div><GoTriangleRight style={{ color: light ? "#dc143c" : "#64ffda", fontSize: "20px" }} /></div>
                         <p>My journey includes hands-on experience with real-world projects, applying my knowledge in both <span>Frontend</span> and <span>Backend</span> development.</p>
