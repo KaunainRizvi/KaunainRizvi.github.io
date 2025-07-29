@@ -35,7 +35,7 @@ export const Home = () => {
             <p>I'm a <span>&nbsp;Software Developer.</span></p>
             <p>As a final year MCA student and Full Stack Developer, I specialize in developing scalable web applications. Proficient in JavaScript & ReactJs, I seamlessly integrate backend functionalities with responsive frontend components, demonstrating a strong grasp of software development principles. A collaborative team player with excellent problem-solving skills, I'm eager to contribute academic insights and practical skills to innovative projects. My keen interest in data structures and algorithms enhances my overall proficiency in Full Stack Development.</p>
             <div className='homeCont'>
-                <a href='https://drive.usercontent.google.com/download?id=1NXy8L6nKJXybes4WASSvpkjpwRUmz1DM&export=download&authuser=0&confirm=t&uuid=d8823cf9-5cdb-455b-b77b-047ea8bdfa51&at=APZUnTVYR2eWoR68z5RSBBHupcYe:1705078621426' style={{ textDecoration: "none" }} download='Kaunain_Rizvi_Resume'>
+                <a href='https://drive.usercontent.google.com/download?id=19igZQeFa5XZIud3VQLETbGdYVE0mrKdU&export=download&authuser=0&confirm=t&uuid=472a4c30-f0f5-4ed6-9566-b692b079c0e4&at=AN8xHopSKkRtU47WZ4AtkljTM39D:1753779041057' style={{ textDecoration: "none" }} download='Kaunain_Rizvi_Resume'>
                     <button>Resume <i>
                         <BiDownload />
                     </i></button>
