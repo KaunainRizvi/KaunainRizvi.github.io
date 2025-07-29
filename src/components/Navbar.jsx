@@ -72,7 +72,7 @@ export const Navbar = () => {
             <p><a data-goto='skill' onClick={goToSection}>SKILLS</a></p>
             <p><a data-goto='projects' onClick={goToSection} >PROJECTS</a></p>
             <p><a data-goto='contact' onClick={goToSection}>CONTACT</a></p>
-            <p><a href='https://drive.google.com/file/d/1NXy8L6nKJXybes4WASSvpkjpwRUmz1DM/view?usp=drive_link/view' target='_blank'>RESUME <MdOpenInNew fontSize={17} /></a></p>
+            <p><a href='https://drive.google.com/drive/u/0/folders/1e7carik3g5hYyJ5xZlsMvrcqKmvguO7M' target='_blank'>RESUME <MdOpenInNew fontSize={17} /></a></p>
             {light ? <i className='fas' style={{ cursor: "pointer", fontSize: "20px", color: "#0a192f" }} onClick={() => setLight(false)}><FaMoon /></i> :
                 <i className='fas' style={{ cursor: "pointer", fontSize: "20px", color: "yellow" }} onClick={() => setLight(true)}><FaSun /></i>}
         </div>
